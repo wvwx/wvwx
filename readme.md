@@ -34,4 +34,7 @@ class Attributes:
 		return specialities, environnement
 ```
 
+<p href="https://discord.gg/DPkuunh6XN" align="center">
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=wvwx&show_icons=true&theme=dracula>
+</p>
 ![wvwx's github stats](https://github-readme-stats.vercel.app/api?username=wvwx&show_icons=true&theme=dracula)
