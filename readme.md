@@ -8,6 +8,10 @@
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
 
 ![wvwx's github stats](https://github-readme-stats.vercel.app/api?username=wvwx&show_icons=true&theme=dracula)
 
