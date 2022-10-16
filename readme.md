@@ -1,4 +1,4 @@
-# Hello I'm wvwx
+### Hello I'm wvwx
 
 [![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=github)](https://github.com/wvwx)
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
@@ -10,7 +10,7 @@
 lol
 ```
 
-## Skills
+# Skills
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
