@@ -1,5 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 wvwx
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wvwx&label=Profile%20views&color=0e75b6&style=flat" alt="wvwx" /> </p>
+
 [![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=github)](https://github.com/wvwx)
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https:/discord.gg/zum)
 
