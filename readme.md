@@ -1,4 +1,4 @@
-# Hello I'm wvwx
+# I am wvwx
 
 <--
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
