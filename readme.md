@@ -1,17 +1,5 @@
 # I am wvwx
 
-<--
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
--->
 ```python
 
 import bitches
