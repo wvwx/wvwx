@@ -1,23 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 wvwx
 
 [![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=github)](https://github.com/wvwx)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https:/discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
 
 ![wvwx's github stats](https://github-readme-stats.vercel.app/api?username=wvwx&show_icons=true&theme=dracula)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wvwx&show_icons=true&locale=en" alt="wvwx" /></p>
-
-[![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=github)](https://github.com/wvwx)
-[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https:/discord.gg/zum)
-
-
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
-
-🖖 𝗩𝘂𝗲.𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 𝗪𝗲𝗯𝟯 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🌵 𝗔𝗴𝗮𝘃𝗲 𝗻𝗮𝗻𝗻𝘆
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wvwx&label=Profile%20views&color=0e75b6&style=flat" alt="wvwx" /> </p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
