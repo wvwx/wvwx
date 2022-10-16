@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm wvwx</h1>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 wvwx
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wvwx&label=Profile%20views&color=0e75b6&style=flat" alt="wvwx" /> </p>
+[![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=github)](https://github.com/wvwx)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https:/discord.gg/zum)
+
 
 <a href="https://discord.gg/zum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zum" height="30" width="40" /></a>
 
@@ -11,7 +14,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 wvwx
 
 [![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=github)](https://github.com/wvwx)
-[![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=discord)](https:/discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https:/discord.gg/zum)
 
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
