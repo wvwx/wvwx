@@ -1,6 +1,11 @@
 # Hello I'm wvwx
 
-[![](https://img.shields.io/badge/-@wvwx-%23181717?style=flat-square&logo=github)](https://github.com/wvwx)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
+[![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
 [![](https://img.shields.io/badge/-.gg/zum-%23181717?style=flat-square&logo=discord)](https://discord.gg/zum)
 
